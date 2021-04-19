@@ -257,6 +257,13 @@ Create a pdf document named MonopolyStrategyAnalysis.pdf with the following cont
 **Grace days:**
 You may use your remaining grace days on this project, even though these days go into finals week.
 
+### Use and Borrowing Code
+In this project you have been given substantial code to start with.  You do not need to cite this code nor add additional comments to it. You **do**, however, need to comment your code that you add to it.
+
+You should not need to borrow any code from elsewhere, but if you do, be sure to cite it.
+
+**We will use a software similarity detection system to analyze your code in comparison to the submission of others.  Be aware that this looks at the underlying structure of code, not surface features such as comments and variable names. Please review the Policy on collaboration and cheating in the Syllabus.**
+
 ### What to turn in
 1. Create a directory named with your Andrew ID (and only your Andrew id).
 2. Take screen shots of a successful snapshot (because of its length, it will probably take more than one) and put it into this new directory.
