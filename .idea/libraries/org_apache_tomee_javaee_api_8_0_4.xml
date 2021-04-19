@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.apache.tomee:javaee-api:8.0-4" type="repository">
+    <properties maven-id="org.apache.tomee:javaee-api:8.0-4" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomee/javaee-api/8.0-4/javaee-api-8.0-4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/geronimo/specs/geronimo-jpa_2.2_spec/1.0/geronimo-jpa_2.2_spec-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
